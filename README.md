@@ -14,6 +14,7 @@ This is a repository that contain all of the project That I just done this year.
   |--|--|--|--|
   |1|slpy-one/homepage-react|a re-creation homepage of slpy.one|[repo](https://github.com/slpy-one/homepage-react) / [website](https://slpy.one)|
   |2|slpy-one/timestamp-react|a re-creation of discord timestamp generator|[repo](https://github.com/slpy-one/timestamp-react) / [website](https://timestamp.slpy.one)|
+  |3|slpy-one/socket-now-play|a page that show spotify now playing using data from discord monitor bot|[repo](https://github.com/slpy-one/socket-now-play) / [website](https://now.slpy.one)|
 - March
 - April
 - May
